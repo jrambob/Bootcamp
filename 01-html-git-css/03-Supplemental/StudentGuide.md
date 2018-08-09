@@ -12,7 +12,7 @@ In this week, we will be welcoming our students to their first week of our Full-
 ### Key Activities
 
 * [MyFirstHTML](../01-Activities/03-MyFirstHTML)
-* [HTML/CSS Layout](.././01-Activities/06-HTML_CSS_Layout)
+* [HTML/CSS Layout](../01-Activities/06-HTML_CSS_Layout)
 * [Float Layout](../01-html-git-css/01-Activities/09-FloatLayout-Activity)
 * [Position Example](../01-html-git-css/01-Activities/10-CSS_PositionedLayout)
 
