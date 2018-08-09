@@ -6,15 +6,15 @@ In this week, we will be welcoming our students to their first week of our Full-
 
 ### Homework Activities
 
-* [Build Your Portfolio Page (Recommended Homework)](../../../01-Class-Content/01-html-git-css/02-Homework/Instructions/recommended-homework-assignment.md)
-* [Build A Wireframe Layout (Easier Homework)](../../../01-Class-Content/01-html-git-css/02-Homework/Instructions/easier-homework-assignment.md)
+* [Build Your Portfolio Page (Recommended Homework)](../01-Class-Content/01-html-git-css/02-Homework/Instructions/recommended-homework-assignment.md)
+* [Build A Wireframe Layout (Easier Homework)](../01-Class-Content/01-html-git-css/02-Homework/Instructions/easier-homework-assignment.md)
 
 ### Key Activities
 
-* [MyFirstHTML](../../../01-Class-Content/01-html-git-css/01-Activities/03-MyFirstHTML)
-* [HTML/CSS Layout](../../../01-Class-Content/01-html-git-css/01-Activities/06-HTML_CSS_Layout)
-* [Float Layout](../../../01-Class-Content/01-html-git-css/01-Activities/09-FloatLayout-Activity)
-* [Position Example](../../../01-Class-Content/01-html-git-css/01-Activities/10-CSS_PositionedLayout)
+* [MyFirstHTML](../01-Activities/03-MyFirstHTML)
+* [HTML/CSS Layout](.././01-Activities/06-HTML_CSS_Layout)
+* [Float Layout](../01-html-git-css/01-Activities/09-FloatLayout-Activity)
+* [Position Example](../01-html-git-css/01-Activities/10-CSS_PositionedLayout)
 
 ### Supplemental Resources
 
